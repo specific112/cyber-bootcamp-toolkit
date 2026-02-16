@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+targets.json
+vuln_report.json
+
